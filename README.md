@@ -1,5 +1,3 @@
-# **Zmodyfikowany Tutorial: Krok po kroku tworzenie strony z formularzem i skryptu z użyciem Visual Studio Code**
-
 ### **1. Utwórz plik HTML**
 
 - W **Eksploratorze plików** po lewej stronie (ikona folderu) zobaczysz strukturę swojego projektu.
