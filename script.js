@@ -1,4 +1,4 @@
-<script>
+
 function wyswietlDane() {
     // Pobieranie wartości z formularza
     var imie = document.getElementById("imie").value;
@@ -16,4 +16,3 @@ function wyswietlDane() {
     // Wyświetlanie danych
     document.getElementById("wynik").innerHTML = dane;
 }
-</script>
