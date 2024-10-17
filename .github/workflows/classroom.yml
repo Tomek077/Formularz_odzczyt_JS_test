@@ -1,0 +1,21 @@
+autograding:
+  tests:
+    - name: 'Czy formularz istnieje'
+      setup: 'npm install'
+      run: 'npm test -- -t="Czy formularz istnieje"'
+      points: 25
+
+    - name: 'Czy wszystkie pola są obecne'
+      setup: 'npm install'
+      run: 'npm test -- -t="Czy wszystkie pola są obecne"'
+      points: 25
+
+    - name: 'Czy przycisk "Wyświetl" istnieje'
+      setup: 'npm install'
+      run: 'npm test -- -t="Czy przycisk \\"Wyświetl\\" istnieje"'
+      points: 25
+
+    - name: 'Czy dane są wyświetlane po kliknięciu przycisku'
+      setup: 'npm install'
+      run: 'npm test -- -t="Czy dane są wyświetlane po kliknięciu przycisku"'
+      points: 25
